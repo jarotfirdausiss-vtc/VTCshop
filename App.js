@@ -3,7 +3,8 @@ import { View, Text, StyleSheet, ScrollView, TextInput, TouchableOpacity, FlatLi
 import { View, Text, StyleSheet, ScrollView, TextInput, TouchableOpacity, FlatList, Image, StatusBar, Alert, Linking } from 'react-native';
 import { Ionicons, FontAwesome5 } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
-
+import React, { useState } from 'react';
+import { View, Text, StyleSheet, ScrollView, TextInput, TouchableOpacity, FlatList, Image, StatusBar, Alert, Linking } from 'react-native';
 const COLORS = { primary: '#EE4D2D', light: '#FF6B35', bg: '#F5F5F5', white: '#fff', gray: '#888' };
 
 const PRODUCTS = [
