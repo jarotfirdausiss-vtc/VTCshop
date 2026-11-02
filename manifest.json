@@ -1,0 +1,17 @@
+{
+  "name": "VTCSHOP",
+  "short_name": "VTCSHOP",
+  "description": "Semua Ada Semua Bisa - Cari Apapun Jenis Produk Sesuai Kebutuhan Orang-Orang",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ee4d2d",
+  "theme_color": "#ee4d2d",
+  "id": "vtcshop-app",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
