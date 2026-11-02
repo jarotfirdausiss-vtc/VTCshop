@@ -1,17 +1,18 @@
 {
-  "name": "VTCSHOP",
+  "name": "VTCSHOP - Semua Ada Semua Bisa",
   "short_name": "VTCSHOP",
-  "description": "Semua Ada Semua Bisa - Cari Apapun Jenis Produk Sesuai Kebutuhan Orang-Orang",
-  "start_url": "./",
+  "description": "VTCSHOP Flash Sale 24 Jam Gratis Ongkir",
+  "start_url": "/VTCshop/",
   "display": "standalone",
-  "background_color": "#ee4d2d",
+  "background_color": "#ffffff",
   "theme_color": "#ee4d2d",
   "id": "vtcshop-app",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
